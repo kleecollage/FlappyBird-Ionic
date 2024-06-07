@@ -1,0 +1,7 @@
+{
+  "name": "flappy-bird-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
